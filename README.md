@@ -3,6 +3,7 @@
 <h2> Cybersecurity Projects:</h2>
 
   - [Active Directory Homelab](https://github.com/galvintemplar/AD-Lab)
+  - [File Integrity Monitor](https://github.com/galvintemplar/File-Integrity-Monitor)
 
 
 
