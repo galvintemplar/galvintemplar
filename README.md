@@ -4,7 +4,7 @@
 
   - [Active Directory Homelab](https://github.com/galvintemplar/AD-Lab)
   - [File Integrity Monitor](https://github.com/galvintemplar/File-Integrity-Monitor)
-
+  - [Splunk Tutorial](https://github.com/galvintemplar/Splunk_Tutorial)
 
 
 <h2>  Connect with me:</h2>
